@@ -1,1 +1,24 @@
+/*
+#########################################################
+IMPRESS.JS CUSTOM STYLES
+#########################################################
+*/
 
+/* changed from normalize-4.1.1.css: margin: 1em 40px; */
+
+figure {
+	margin: 0;
+}
+
+/* ### LISTS ###### */
+
+
+ul li {
+	line-height: 1.3em;
+}
+
+/* instead of margin-left: 1em; */
+
+ul li:before {
+	margin-left: -0.5em;
+}
