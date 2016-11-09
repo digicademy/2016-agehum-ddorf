@@ -1,15 +1,16 @@
-### Date | Place
+### 11.11.2016 | NRW Akademie der Wissenschaften und der Künste | Düsseldorf
 
-# Title
+# Ebenen der Nachnutzung von Forschungsdaten in der Mainzer Akademie
 
-## Subtitle
+## Fünf Projektbeispiele
 
-### Author
+### Andreas Kuczera, Yannick Weber, Max Grüntgens, Aline Deicke, Frederic von Vlahovits, Dominik Kasper
 
-Description
+Vortrag im Rahmen der Tagung der AG eHumanities der Union der deutschen Akademien der Wissenschaften
 
-The code of this boilerplate is at https://github.com/digicademy/impress-js-boilerplate
+Die Daten zu dieser Präsentation finden sich unter https://github.com/digicademy/2016-agehum-ddorf
 
-A live demo can be found at http://digicademy.github.io/impress-js-boilerplate/
+Die Präsentation kann abgerufen werden unter: http://digicademy.github.io/2016-agehum-ddorf
 
-Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), @digicademy
+Veröffentlicht unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), 
+[Andreas Kuczera, Yannick Weber, Max Grüntgens, Aline Deicke, Frederic von Vlahovits, Dominik Kasper](http://www.digitale-akademie.de/)
