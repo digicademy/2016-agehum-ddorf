@@ -4,7 +4,7 @@
 
 ## Fünf Projektbeispiele
 
-### Andreas Kuczera, Yannick Weber, Max Grüntgens, Aline Deicke, Frederic von Vlahovits, Dominik Kasper
+### Vortragende: Andreas Kuczera, Yannick Weber, Max Grüntgens, Aline Deicke, Frederic von Vlahovits, Dominik Kasper
 
 Vortrag im Rahmen der Tagung der AG eHumanities der Union der deutschen Akademien der Wissenschaften
 
