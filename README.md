@@ -1,4 +1,4 @@
-### 11.11.2016 | NRW Akademie der Wissenschaften und der Künste | Düsseldorf
+### 09.11.2016 | NRW Akademie der Wissenschaften und der Künste | Düsseldorf
 
 # Ebenen der Nachnutzung von Forschungsdaten in der Mainzer Akademie
 
